@@ -1,4 +1,6 @@
-# Mouth mask
+![mouth-mask](./docs/0a6d8252-af16-4687-aecc-2406dd68c975.jpeg?raw=true "mouth-mask")
+
+# 😷Mouth mask
 
 ## [Surgical mask](https://en.wikipedia.org/wiki/Surgical_mask)
 
