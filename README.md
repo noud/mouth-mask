@@ -4,7 +4,7 @@
 
 ## Self-made
 
-### nl [mondmasker](https://nl.wikipedia.org/wiki/Mondkapje)
+### nl [mondkapje, mondmasker of mondneusmasker](https://nl.wikipedia.org/wiki/Mondkapje)
 
 - [Met dit patroon en stappenplan maak je zelf thuis een mondmasker](https://www.libelle.nl/huis-tuin-feestje/zelf-mondmasker-maken/)
 - [Mondmasker zelf maken II – officieel patroon](https://blog.bernina.com/nl/2020/03/mondmasker-zelf-maken-ii-officieel-patroon/)
