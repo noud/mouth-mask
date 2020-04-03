@@ -1,8 +1,8 @@
-# mount-mask
+# Mount mask
 
 ## [Surgical mask](https://en.wikipedia.org/wiki/Surgical_mask)
 
-## Self Made
+## Self-made
 
 ### nl [mondmasker](https://nl.wikipedia.org/wiki/Mondkapje)
 
