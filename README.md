@@ -1,4 +1,4 @@
-# Mount mask
+# Mouth mask
 
 ## [Surgical mask](https://en.wikipedia.org/wiki/Surgical_mask)
 
