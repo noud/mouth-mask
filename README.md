@@ -6,6 +6,8 @@
 
 ## Self-made
 
+- [CDC](https://www.cdc.gov/) [Sew and No Sew Instructions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+
 ### nl [mondkapje, mondmasker of mondneusmasker](https://nl.wikipedia.org/wiki/Mondkapje)
 
 - [Met dit patroon en stappenplan maak je zelf thuis een mondmasker](https://www.libelle.nl/huis-tuin-feestje/zelf-mondmasker-maken/)
