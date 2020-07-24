@@ -19,4 +19,6 @@
 - [Patronen mondmaskers / mondkapjes](https://www.renskecreatief.nl/Patronen-mondmaskers-/-mondkapjes)
 - [Patroon Antistof mondmakser | maat S-M-L](https://aboutblue.be/product/patroon-antistof-mondmakser/)
 
+mind: one needs multiple layers of cloth [Covid-19 mask safety: Two or three layers best to protect against virus, study finds](http://edition.cnn.com/2020/07/23/health/covid-mask-layers-wellness/index.html)
+
 # My [portfolio](https://github.com/noud/portfolio#portfolio-repositories-index)
